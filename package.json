@@ -1,0 +1,24 @@
+{
+  "name": "foot.js",
+  "version": "0.1.0",
+  "description": "A custom nodejs framework built using within the FlexiTech organization",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/flexitechio/foot.js.git"
+  },
+  "keywords": [
+    "nodejs",
+    "framework",
+    "flexitech"
+  ],
+  "author": "Promsopheak Nuon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/flexitechio/foot.js/issues"
+  },
+  "homepage": "https://github.com/flexitechio/foot.js"
+}
